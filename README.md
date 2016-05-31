@@ -1,4 +1,4 @@
 # hello-world
 A test repository
 
-These are changes to teh Readme file.
+These are changes to the Readme file.
